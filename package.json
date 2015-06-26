@@ -1,0 +1,12 @@
+{
+  "name": "ie-boycott",
+  "description": "We finally boycott Internet Explorer, for every hours spent on writing IE-only code.",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aug-riedinger/ie-boycott"
+  },
+  "dependencies": {
+    "uglify-js": "^2.4.23"
+  }
+}
